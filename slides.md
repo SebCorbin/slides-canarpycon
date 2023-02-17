@@ -1,3 +1,5 @@
+<!-- {% raw %} -->
+
 <!-- .slide: class="alternate" data-background-image="fonds/couv.jpg" -->
 
 # Lutter contre le dérèglement climatique avec Django
@@ -527,3 +529,5 @@ Le temps de calcul est finalement passé de quelques minutes à moins d'une diza
 # Merci !
 
 ## Questions ?
+
+<!-- {% endraw %} -->
