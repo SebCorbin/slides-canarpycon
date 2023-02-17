@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 411 231" style="enable-background:new 0 0 411 231;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;}
+	.st1{font-family:'Helvetica';}
+	.st2{font-size:12px;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{font-family:'Helvetica-Bold';}
+	.st6{fill:#FFE6CC;stroke:#D79B00;stroke-miterlimit:10;}
+	.st7{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="10.5" y="55.5" pointer-events="all" class="st0" width="70" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 32.832 74.5)" class="st1 st2">User</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M290.5,23.5v-23h120v23"/>
+	<path pointer-events="none" class="st4" d="M290.5,23.5v117h120v-117"/>
+	<path pointer-events="none" class="st4" d="M290.5,23.5h120"/>
+	<g pointer-events="none">
+		<text transform="matrix(1 0 0 1 339.667 16.5)" class="st5 st2">IAC</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 308.8164 69.5)" class="st1 st2">climate variable</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 329.4854 49.5)" class="st1 st2">function</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 310.8115 119.5)" class="st1 st2">default params</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 312.1504 94.5)" class="st1 st2">forced params</text>
+	</g>
+	<path pointer-events="none" class="st6" d="M185.5,141h10v20H206l-15.5,19L175,161h10.5V141z"/>
+	<path pointer-events="none" class="st4" d="M240.5,70.5h43.6"/>
+	<path pointer-events="none" class="st7" d="M289.4,70.5l-7,3.5l1.8-3.5l-1.8-3.5L289.4,70.5z"/>
+	<path pointer-events="none" class="st4" d="M140.5,105.5l-58.2,77.9"/>
+	<path pointer-events="none" class="st7" d="M79.2,187.6l1.4-7.7l1.8,3.5l3.9,0.7L79.2,187.6z"/>
+	<path pointer-events="none" class="st3" d="M140.5,23.5v-23h100v23"/>
+	<path pointer-events="none" class="st4" d="M140.5,23.5v117h100v-117"/>
+	<path pointer-events="none" class="st4" d="M140.5,23.5h100"/>
+	<g pointer-events="none">
+		<text transform="matrix(1 0 0 1 172.665 16.5)" class="st5 st2">Job    </text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 160.1543 43.5)" class="st1 st2">parameters</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 168.8213 71.5)" class="st1 st2">scenario</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 173.8213 98.5)" class="st1 st2">period</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 172.8281 129.5)" class="st1 st2">results</text>
+	</g>
+	<path pointer-events="none" class="st4" d="M140.5,70.5H86.9"/>
+	<path pointer-events="none" class="st7" d="M81.6,70.5l7-3.5l-1.8,3.5l1.8,3.5L81.6,70.5z"/>
+	<path pointer-events="none" class="st6" d="M130,200.5v10h-20V221l-19-15.5l19-15.5v10.5H130z"/>
+	<path pointer-events="none" class="st3" d="M150.5,180.5h80l20,25l-20,25h-80l-20-25L150.5,180.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 154.8281 209.5)" class="st1 st2">Celery / CDO</text>
+	</g>
+	<rect x="0.5" y="190.5" pointer-events="none" class="st0" width="90" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 16.1562 209.5)" class="st1 st2">TaskResult</text>
+	</g>
+</g>
+</svg>
