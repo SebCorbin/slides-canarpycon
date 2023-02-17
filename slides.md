@@ -218,7 +218,7 @@ L'utilisation des canaris dans les mines britanniques a été progressivement ab
 L'idée est d'approfondir l'existant (plateforme AWA) pour cette fois-ci choisir le *point de grille* et les *indicateurs agro-climatiques* (IAC) que l'on souhaite visualiser.
 
 - point de grille : il va falloir des données pour chaque, *beaucoup* de données
-- indicateurs agro-climatiques : il va falloir les caculer à partir des données, sur de longues périodes, *très* longues
+- indicateurs agro-climatiques : il va falloir les calculer à partir des données, sur de longues périodes, *très* longues
 
 ---
 
@@ -307,13 +307,14 @@ RCP = Representative Concentration Pathway
     </tbody>
   </table>
 
----
+L'_Institut Pierre-Simon Laplace_ (IPSL) nous ont bien aidé à comprendre tous ces jeux de données.
 
+---
 
 ### Les variables 
 
 - Précipitations
-- Températures minimale, moyenne, maximale
+- Températures minimales, moyennes, maximales
 - Vitesse du vent moyenne et maximale
 - Evaporation
 - Humidité
@@ -434,7 +435,7 @@ Au total : 121 indicateurs configurables (au niveau des seuils/périodes)
 - Possibilité de différencier formulaire ajout/modification
   - permet de ne modifier que les params d'un IAC une fois la fonction et la variable choisies
 - Possibilité de réordonner les IAC ou catégories d'IAC
-  - intégration de `ordered_model` 
+  - intégration de `django-ordered-model` 
 
 ![](screens/admin.png)
 
@@ -443,7 +444,7 @@ Au total : 121 indicateurs configurables (au niveau des seuils/périodes)
 ## L'admin Django est votre amie
 
 - Possitibilité d'éditer des JSONField de façon fine
-  - grâce au package `django_admin_json_editor` et un JSON schema form
+  - grâce au package `django-admin-json-editor` et un JSON schema form
 
 ![](screens/admin3.png)
 
@@ -529,5 +530,7 @@ Le temps de calcul est finalement passé de quelques minutes à moins d'une diza
 # Merci !
 
 ## Questions ?
+
+On recrute ! <https://makina-corpus.com/rejoignez-nous>
 
 <!-- {% endraw %} -->
